@@ -1,0 +1,3 @@
+4	soap	140
+4	salt	50
+4	soda	130

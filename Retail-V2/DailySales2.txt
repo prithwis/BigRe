@@ -1,0 +1,3 @@
+2	soap	110
+2	salt	80
+2	soda	80
